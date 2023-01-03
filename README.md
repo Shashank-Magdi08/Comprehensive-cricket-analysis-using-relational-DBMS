@@ -2,7 +2,7 @@
 Conceptualized an RDBMS by formulating an Entity-relationship Diagram based on the Dataset comprising of 577 games and 21 csv files and formulated the 25 desired user-oriented SQL Queries to elicit actionable insights and not so keen on the eye statistic from the schema.  
 
 
-**What does this project hope to achieve? **
+**What does this project hope to achieve?**
 
 a. Understand the complex Kaggle Indian Premier Dataset precisely and create a relational DBMS using the concepts we learn from the class like constructing an ERD, also mapping it to the tables among other steps.  
 
