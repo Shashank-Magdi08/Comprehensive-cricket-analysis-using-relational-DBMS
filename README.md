@@ -1,5 +1,6 @@
 # Comprehensive-cricket-analysis-using-relational-DBMS
-The official submitted documentation as part of **CSCI 5707 : Database Management systems** at UMN, can be found in the file within the documentation folder. This file consists of all the primary details of the project including the methodology followed. The ipynb notebook can also be found within the main directory 
+The official submitted documentation as part of **CSCI 5707 : Database Management systems** at UMN, can be found in the file within the documentation folder. 
+The documentation file in the repository(found at the top of the files section) consists of all the primary details of the project including the methodology followed. The ipynb notebook can also be found within the main directory under the same name. Both of these can be referred to have a deep dive into the aforementioned project.
 
 
 **What did we do?**   
