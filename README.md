@@ -12,6 +12,4 @@ c. To ultimately formulate desired user-oriented SQL queries that can effectivel
 
 d. Also understand how much time each query is taking to execute, and discuss various query optimization techniques to improve this run time and finally plot the results.  
 
-
- 
- 
+The official submitted documentation as part of CSCI 5707 : Database Management systems can be found in the file within the documentation folder. This file consists of all the primary details of the project including the methodology followed. The ipython notebook can also be found within the main directory 
